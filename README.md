@@ -1,1 +1,5 @@
-# Image-classification
+# 工业零件分类识别
+
+## 工具
+
+- 标注图像：labelImg;
